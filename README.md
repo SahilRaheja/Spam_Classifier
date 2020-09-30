@@ -2,11 +2,13 @@
 
 Aim of the project was to predict whether the message received is a spam message.
 
-<ul> Data Collection: Collected data from an online platform https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection.
+<ul> 
+  <li>Data Collection: Collected data from an online platform https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection. </li>
 
-<ul> Data Preprocessing: Text was in raw format and needed to be cleaned and processed. 
+  <li> Data Preprocessing: Text was in raw format and needed to be cleaned and processed. </li>
 
-<ul> Models Build: Used Naive Bayes Classifier model for prediction
+  <li> Models Build: Used Naive Bayes Classifier model for prediction. </li>
 
-<ul> Tools/Libraries Used: Jupyter Notebook, NLTK, WordNetLemmatizer, TfidfVectorizer, Scikit-Learn for model building, Confusion Matrix and Accuracy score for Model Evaluation.
+  <li> Tools/Libraries Used: Jupyter Notebook, NLTK, WordNetLemmatizer, TfidfVectorizer, Scikit-Learn for model building, Confusion Matrix and Accuracy score for Model Evaluation.   </li>
+ </ul>
 
